@@ -74,7 +74,7 @@ The following resources were created to support the analysis and help stakeholde
 - [SQL Queries & Outputs (PDF)](https://drive.google.com/file/d/136HMs8r3bn0PWFTyIU7DNw1VP6xqrkms/view?usp=drive_link)
   Details of queries and outputs used for analysis.
   
-- [My Portfolio (PDF)](Quezada-%20Data%20Analyst-Portfolio..pdf)
+- [My Portfolio (PDF)](https://drive.google.com/file/d/1x2a8yWZwjeENrCkGEfXUaOWMFuhdRzrP/view?usp=drive_link))
 
 **Or download all combined in one file:**
 
